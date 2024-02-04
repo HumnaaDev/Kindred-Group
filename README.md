@@ -46,6 +46,7 @@ You can learn more in the [Create React App documentation](https://facebook.gith
 To learn React, check out the [React documentation](https://reactjs.org/).
 
 ## What I have done
+
 ## Components:
 
 Appbar
@@ -54,24 +55,30 @@ DetailView
 Layout
 SearchInput
 Sidebar
+
 ## Pages:
 
 listing page
 detail view pages
 Favorite movies
+
 ## Global State Management:
 
 Implemented a store using the Context API to manage favorite movies globally.
+
 ## Backend Integration:
 
 Created a dedicated api folder to handle backend services.
 Developed a service to retrieve data from the API.
+
 ## Styling:
 
 Applied styles using Material UI for a consistent and polished user interface.
+
 ## Error Handling:
 
 Implemented error handling mechanisms to enhance the robustness of the application.
+
 ## Utilities:
 
 Developed utility functions for checking favorite status and marking favorites.
@@ -79,10 +86,10 @@ Created a custom hook to manage local storage.
 Included a theme file for Material UI
 
 ## Test Cases
-DetailView 
-SearchInput 
+
+DetailView
+SearchInput
 
 kindly use npm start to run project and npm test to run test cases
 I have tried my best to fullfill your requirements but I believe everthing needs improvement:)
 Looking forward to your feedback.
-
